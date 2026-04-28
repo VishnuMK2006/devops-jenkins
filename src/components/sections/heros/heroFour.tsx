@@ -10,19 +10,19 @@ const heroSlides = [
     {
         image: '/img/hero/hero-7.jpg',
         title: 'We Provide our clients Best Solar Services',
-        description: 'Transmds is the world’s driving worldwide coordinations supplier we uphold industry and exchange the worldwide trade of merchandi',
+        description: 'Begging',
         link: '/',
     },
     {
         image: '/img/hero/hero-5.jpg',
         title: 'We Provide our clients Best Solar Services',
-        description: 'Transmds is the world’s driving worldwide coordinations supplier we uphold industry and exchange the worldwide trade of merchandi',
+        description: 'Begging',
         link: '/',
     },
     {
         image: '/img/hero/hero-9.jpg',
         title: 'We Provide our clients Best Solar Services',
-        description: 'Transmds is the world’s driving worldwide coordinations supplier we uphold industry and exchange the worldwide trade of merchandi',
+        description: 'Begging',
         link: '/',
     },
 ]
